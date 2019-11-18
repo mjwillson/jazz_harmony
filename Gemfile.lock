@@ -1,16 +1,8 @@
-GIT
-  remote: https://github.com/mjwillson/jekyll-lilypond-converter.git
-  revision: 63740fa6693e39572b6221c8a66d0a719f4cd91f
-  specs:
-    jekyll-lilypond-converter (0.2.0)
-      jekyll (~> 4.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    browserify_rb (1.0.0)
     colorator (1.1.0)
     concurrent-ruby (1.1.5)
     em-websocket (0.5.1)
@@ -37,8 +29,6 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 1.8)
-    jekyll-browserify (1.1.1)
-      browserify_rb (~> 1.0.0)
     jekyll-compose (0.11.0)
       jekyll (>= 3.7, < 5.0)
     jekyll-feed (0.13.0)
@@ -80,9 +70,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 4.0)
-  jekyll-browserify
   jekyll-compose
-  jekyll-lilypond-converter (~> 0.2)!
   minima
 
 BUNDLED WITH

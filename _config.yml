@@ -15,7 +15,6 @@ github_username:  mjwillson
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-lilypond-converter
 
 
 destination: ./docs
