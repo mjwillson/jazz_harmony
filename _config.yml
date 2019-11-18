@@ -1,0 +1,21 @@
+# Jekyll config file
+
+
+title: Jazz harmony blog
+# email: matthew.willson+harmony@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  My notes about functional harmony in jazz and 20th C music.
+baseurl: "/jazz_harmony"
+url: "https://mjwillson.github.io"
+# twitter_username: jekyllrb
+github_username:  mjwillson
+
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-lilypond-converter
+
+
+destination: ./docs

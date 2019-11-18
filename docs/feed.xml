@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/jazz_harmony/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/jazz_harmony/" rel="alternate" type="text/html" /><updated>2019-11-18T01:49:53+00:00</updated><id>http://localhost:4000/jazz_harmony/feed.xml</id><title type="html">Jazz harmony blog</title><subtitle>My notes about functional harmony in jazz and 20th C music.</subtitle><entry><title type="html">First post</title><link href="http://localhost:4000/jazz_harmony/general/2019/11/17/first-post.html" rel="alternate" type="text/html" title="First post" /><published>2019-11-17T21:32:26+00:00</published><updated>2019-11-17T21:32:26+00:00</updated><id>http://localhost:4000/jazz_harmony/general/2019/11/17/first-post</id><content type="html" xml:base="http://localhost:4000/jazz_harmony/general/2019/11/17/first-post.html">&lt;p&gt;This is a C major chord:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/jazz_harmony/lily_images/5a6dd114-0516-4a02-b33d-1f1b60108e87.svg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;div&gt;
+  &lt;audio controls=&quot;controls&quot;&gt;
+    &lt;source type=&quot;audio/mp3&quot; src=&quot;/jazz_harmony/lily_images/5a6dd114-0516-4a02-b33d-1f1b60108e87.mp3&quot; /&gt;&amp;lt;/source&amp;gt;
+    &lt;p&gt;Your browser does not support the audio element.&lt;/p&gt;
+  &lt;/audio&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">This is a C major chord:</summary></entry></feed>
